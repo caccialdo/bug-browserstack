@@ -1,0 +1,9 @@
+# NodeJS
+node_modules/
+*-debug.log
+*-error.log
+
+# Project
+logs/
+.env
+browserstack-local.log
